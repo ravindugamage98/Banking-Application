@@ -1,3 +1,3 @@
 # Banking-Application
 ## Kubernetes Cluster Diagram 
-![k8s cluster diagram] (https://github.com/ravindugamage98/Banking-Application/assets/170815331/ca8a6177-16c0-4d63-8e3f-04cc38e289fe)
+![image alt] (https://github.com/ravindugamage98/Banking-Application/blob/0db633ba7794b09120cf3a75e54ff69a11ab6c99/K8S%20Cluster%20Diagram.pdf)
